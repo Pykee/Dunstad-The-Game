@@ -1,0 +1,15 @@
+﻿<Properties>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets\Scripts\Shooting.js">
+    <Files>
+      <File FileName="Assets\Scripts\ShootingV2.cs" Line="27" Column="5" />
+      <File FileName="Assets\Scripts\Shooting.js" Line="16" Column="26" />
+      <File FileName="Assets\Scripts\Player.cs" Line="26" Column="6" />
+      <File FileName="Assets\Scripts\GameMenu.cs" Line="12" Column="1" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>
